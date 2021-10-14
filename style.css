@@ -1,1 +1,30 @@
+body {
+    background-color: slategrey;
+    padding-bottom: 10%;
+}
 
+.titres {
+    margin-top: 2%;
+    margin-bottom: 5%;
+
+}
+
+.titre {
+    font-weight: bold;
+}
+
+.sous-titre {
+    font-family: pacifico;
+}
+
+.card {
+    max-width: 100%;
+    min-height: 100%;
+}
+
+.card-img-top {
+    margin-top: 3%;
+    align-self: center;
+    width: 50%;
+    height: 40%;
+}
